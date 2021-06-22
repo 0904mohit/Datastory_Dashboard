@@ -1,9 +1,8 @@
 # Datastory_Dashboard
 - How much money you will loose if you don't get the data analysis.
 - Your Dashboard should always convey your strategy in dollar.
-- Your Dashboard should always convey your strategy in dollar.
-- Your Dashboard should always convey your strategy in dollar.
-- Your Dashboard should always convey your strategy in dollar.
+
+
 - GUYS GO THE LINK MENTION BELOW TO CHECK OUT MY WORK IN DATA_STORY TELLING HOPE YOU WILL LIKE IT..
 - LINKEDIN POST:
 - week1:https://www.linkedin.com/posts/mo2614_excel-alphaaai-week1-activity-6757665315649331200-ZGcv
